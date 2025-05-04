@@ -14,6 +14,9 @@ WORKDIR /workspace
 # Copy requirements file
 COPY requirements.txt .
 
+# install arcade for MCP
+RUN pip install --no-cache-dir arcade-ai
+
 # Install Python dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 

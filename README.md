@@ -18,6 +18,10 @@ The codespace will automatically:
 - Install all required dependencies from `requirements.txt`
 - Configure VS Code with useful extensions for data analysis
 
+## Setup Arcade
+
+Get MCP working: https://docs.arcade.dev/home/mcp/claude-desktop-client
+
 ## Setup
 
 Sample data is available at https://github.com/JannikArndt/PostgreSQLSampleDatabase/tree/master
