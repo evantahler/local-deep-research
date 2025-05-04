@@ -4,7 +4,7 @@ A data analysis and research project environment.
 
 ## Development Environment
 
-This project is set up to use GitHub Codespaces, providing a consistent development environment for all contributors.
+This project is set up to use GitHub Codespaces, so you can just run the LLM and not worry about your local environment getting f'd up.  Be sure to open this project 'within a codespace' locally or remote.
 
 ### Using GitHub Codespaces
 
